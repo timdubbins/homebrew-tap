@@ -2,7 +2,7 @@ class Tap < Formula
   desc "Audio player for the terminal, written in Rust."
   homepage "https://github.com/timdubbins/tap"
   url "https://github.com/timdubbins/tap/releases/download/v0.1.1/tap_v0.1.1-x86_64-apple-darwin.tar.gz"
-  sha256 "57893148dbc58042b208103d928ff9fd682d2f937103eba5c1760fa24c32d291"
+  sha256 "6b55c784f4d23a13c55bb5c8517b0225e8b3188f35145de9d35ee3e6176a9d13"
   version "0.1.1"
 
   def install
