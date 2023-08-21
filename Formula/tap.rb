@@ -1,9 +1,9 @@
 class Tap < Formula
-  desc "An audio player for the terminal, with fuzzy-finder."
+  desc "A fuzzy-finding audio player for the terminal."
   homepage "https://github.com/timdubbins/tap"
-  url "https://github.com/timdubbins/tap/releases/download/v0.4.0/tap_v0.4.0-x86_64-apple-darwin.tar.gz"
-  sha256 "16776aafe63cf2cc7cd72b5714d11a24a92231692d8ada4afaa33a89cdfabf14"
-  version "0.4.1"
+  url "https://github.com/timdubbins/tap/releases/download/v0.4.2/tap_v0.4.2-x86_64-apple-darwin.tar.gz"
+  sha256 "aa2953dcfadc7b254f5fe98b75a6e7d06795872aacc121cd6e27a42971fdbf61"
+  version "0.4.2"
 
   def install
     bin.install "tap"
