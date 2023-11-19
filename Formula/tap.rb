@@ -7,6 +7,6 @@ class Tap < Formula
 
   def install
     bin.install "tap"
-    man1.install "tap.1"
+    man1.install "tap/docs/tap.1"
   end
 end
